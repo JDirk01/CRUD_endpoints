@@ -1,10 +1,10 @@
-package com.example.CRUD_endpoints;
+package com.jarren.employee;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudEndpointsApplicationTests {
+class EmployeeApplicationTests {
 
 	@Test
 	void contextLoads() {
